@@ -2,7 +2,7 @@
  
 ****
 
-- **Telegram：https://t.me/NiuMaXiaoShi**
+- **Telegram(文件资源频道)：https://t.me/NiuMaXiaoShi**
 - **Youtube：  https://www.youtube.com/@MeeGooBoo**
 - **Twitter ( X ）：  https://x.com/MeeGooBoo**
 
