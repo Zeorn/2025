@@ -28,7 +28,7 @@
 
 <p align="center" >
     <img src="https://raw.githubusercontent.com/MeeGooBoo/2025/refs/heads/main/static/imgs/logo.png" width="150">
-    <h3 align="center">牛马小试</h3>
+    <h3 align="center">牛马小试(莫国标)</h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/MeeGooBoo/2025/refs/heads/main/static/imgs/pays.png">
     </p>
