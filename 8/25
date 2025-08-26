@@ -1,0 +1,82 @@
+#### 搭建一个可以和网恋女友一起看片的同步视频/直播平台 | 实现“一起看”功能
+
+SyncTV 是一个允许您远程一起观看电影和直播的程序。它提供同步观看、直播和聊天等功能。使用 SyncTV，您可以与朋友和家人一起观看视频和直播，无论他们身在何处。SyncTV 的同步观看功能可确保观看视频的每个人都在同一点。这意味着您可以暂停、快进、快退、更改播放速度等作，其他人都会同步到同一点。这个项目特别适合异地恋情侣使用。网络上许多用户分享了类似经历，比如在知乎和CSDN的文章中，有人称它为“异地恋必备神器”，因为它不仅支持视频直链导入，还能解析Alist、Emby等存储服务，甚至整合Bilibili直播，让你和女友随时开启一场“云约会”。
+
+****
+
+视频教程：https://youtu.be/ZSEH4MFHCk4
+
+
+****
+
+腾讯原生构建平台：https://cnb.cool
+
+启动命令：
+
+Docker部署SyncTV命令：
+
+```
+docker run -d --name synctv -v /opt/synctv:/root/.synctv -p 8080:8080 synctvorg/synctv
+```
+
+其它部署方式：
+
+```
+sudo -v ; curl -fsSL https://raw.githubusercontent.com/synctv-org/synctv/main/script/install.sh | sudo bash -s -- -v latest
+```
+
+SyncTV项目地址：https://github.com/synctv-org/synctv
+
+
+
+
+
+
+
+****
+
+****
+
+#### 攻防无绝对，技术无好坏，在非安全的信息时代，众人皆在囚笼之中，关注牛马小试，让你一飞冲天！
+
+****
+
+- **Telegram(文件资源频道)：https://t.me/NiuMaXiaoShi**
+- **Youtube：  https://www.youtube.com/@MeeGooBoo**
+- **Twitter ( X ）：  https://x.com/MeeGooBoo**
+
+****
+
+- 需要联系我？请通过：https://t.me/MeeGooBoo
+- 如需购买钻石、铂金、黄金相关奢侈品，请加我微信：Aioa700
+- 注：本人不参与任何涉政相关讨论，本人所有平台和内容仅供技术相关领域学习交流使用。
+
+****
+
+>  [!CAUTION]
+>
+> 本仓库所有内容均来自互联网公开内容或本仓库所有者创作，请勿相信资源中的广告，主动联系你的都是骗子，提高智商谨防上当受诈！请勿利用本仓库实施违反任何适用法律法规等犯罪活动！本仓库所有者不对因使用本仓库内容导致的任何后果承担责任！
+
+****
+
+## 你的赞助是功德无量💰
+
+>  [!NOTE]
+>
+> 如果你觉得本仓库对你有帮助，你可以赞助我们一杯咖啡，鼓励我们继续维护下去。<br>
+> 成为我的Patreon会员：https://www.patreon.com/MeeGooBoo/membership<br>
+> 通过Paypal支持我：https://paypal.me/MoGuoBiao<br>
+> 通过比特币支持我：bc1qkwrq5plek62fmfaynyphfuuepm6cxd4fsh5wrp
+
+
+
+<p align="center" >
+    <img src="https://raw.githubusercontent.com/MeeGooBoo/2025/refs/heads/main/static/imgs/logo.png" width="150">
+    <h3 align="center">牛马小试(莫国标)</h3>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/MeeGooBoo/2025/refs/heads/main/static/imgs/pays.png">
+    </p>
+</p>
+
+
+****
